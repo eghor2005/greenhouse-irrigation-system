@@ -5,7 +5,7 @@ Here's a detailed README for your Arduino-based automatic watering system projec
 
 An Arduino-based automatic plant watering system with a graphical TFT display, potentiometer-controlled timing, and dual SSR relay outputs for water pumps.
 
-![The finished product](greenhouse-irrigation-system/aquaflora/photos/1000013501.jpg)
+![The finished product](photos/1000013501.jpg)
 ## 📋 Overview
 
 AquaFlora is an intelligent watering system that allows you to precisely control watering duration using a potentiometer and trigger watering cycles with a single button press. The system features a colorful TFT display showing real-time information, watering progress, and system status.
