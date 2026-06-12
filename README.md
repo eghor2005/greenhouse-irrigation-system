@@ -20,7 +20,7 @@ Sensor detects no water for 30 min → pump turns ON. Water detected for 15 sec 
 
 
 
-Both projects run on separate boards. No communication between them.
+**Both projects run on separate boards. No communication between them.**
 
 ## The system in greenhouse
 ![The system is on a barrel](greenhouse-irrigation-system/photos/1.jpg)
