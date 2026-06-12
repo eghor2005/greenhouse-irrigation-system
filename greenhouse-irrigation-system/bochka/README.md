@@ -32,13 +32,13 @@ This delay logic prevents the pump from short-cycling and protects it from damag
 ## Example of Installation
 
 The system is in a small case
-![The system is in a small case](bochka/photos/1781182154777.jpg)
+![The system is in a small case](photos/1781182154777.jpg)
 
 Connecting the XKC-Y25-V sensor 
-![Connecting the XKC-Y25-V sensor ](bochka/photos/1781182154786.jpg)
+![Connecting the XKC-Y25-V sensor ](photos/1781182154786.jpg)
 
 The system is on a barrel
-![The system is on a barrel](bochka/photos/1000013495.jpg)
+![The system is on a barrel](photos/1000013495.jpg)
 
 
 
