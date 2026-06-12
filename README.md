@@ -66,13 +66,13 @@ Folder structure for repo:
 
 ```
 greenhouse-irrigation-system/
-├── aquaflora/           # Проект 1 (ручной полив с дисплеем)
+├── aquaflora/           # Project 1 (manual watering with display)
 │   ├── photos/
 │   └── README.md
-├── bochka/              # Проект 2 (автополив бочки)
+├── bochka/              # Project 2 (auto-completion of the barrel)
 │   ├── photos/
 │   ├── README.md
 │   └── bochka.ino
-└── README.md            # Главный README
+└── README.md            # Main README
 ```
 
