@@ -32,9 +32,8 @@ Both projects run on separate boards. No communication between them.
 ![The system is on a barrel](greenhouse-irrigation-system/photos/4.jpg)
 
 
-**Wiring**
+##Wiring
 
----
 
 ### 📁 aquaflora / (Manual + TFT)
 
