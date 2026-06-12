@@ -10,7 +10,7 @@ Set watering duration (1-2048 sec) using potentiometer → press button to start
 
 **Hardware:** ST7735 display, relay, button, potentiometer
 
----
+
 
 ## 📁 bochka - Automatic water tank control
 
@@ -18,7 +18,7 @@ Sensor detects no water for 30 min → pump turns ON. Water detected for 15 sec 
 
 **Hardware:** relay, water level sensor
 
----
+
 
 Both projects run on separate boards. No communication between them.
 
