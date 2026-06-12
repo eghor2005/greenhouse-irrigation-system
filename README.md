@@ -67,7 +67,8 @@ Folder structure for repo:
 greenhouse-irrigation-system/
 ├── aquaflora/           # Project 1 (manual watering with display)
 │   ├── photos/
-│   └── README.md
+│   ├── README.md
+│   └── aquaflora.ino
 ├── bochka/              # Project 2 (auto-completion of the barrel)
 │   ├── photos/
 │   ├── README.md
