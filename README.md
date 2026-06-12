@@ -1,4 +1,4 @@
-**GreenHouse Irrigation System** 🌱
+# GreenHouse Irrigation System 🌱
 
 Two independent Arduino projects in one repository.
 
