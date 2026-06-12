@@ -1,7 +1,12 @@
-# greenhouse-irrigation-system
-GreenHouse Irrigation System 🌱  Dual-mode plant watering system. Manual: set duration (potentiometer), start with button. Auto: pump activates after 30min dry sensor, stops 15sec after water returns. Features ST7735 display, relay control, anti-short-cycle logic. Prevents pump burnout, saves water. 🌿
+**GreenHouse Irrigation System** 🌱
 
+Dual-mode Arduino plant watering system with TFT display.
 
+**Manual mode** - Set duration (1-2048 sec) with potentiometer, press button to water.
+
+**Auto mode** - No water for 30 min → pump ON. Water detected for 15 sec → pump OFF.
+
+**Hardware:** ST7735 display, relay module, water sensor, potentiometer, button.
 
 ## The system in greenhouse
 ![The system is on a barrel](greenhouse-irrigation-system/photos/1.jpg)
