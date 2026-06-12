@@ -2,9 +2,9 @@
 
 Two independent Arduino projects in one repository.
 
----
 
-**📁 aquaflora** - Manual watering with TFT display
+
+## 📁 aquaflora - Manual watering with TFT display
 
 Set watering duration (1-2048 sec) using potentiometer → press button to start. Shows countdown and progress bar on ST7735 display.
 
@@ -12,7 +12,7 @@ Set watering duration (1-2048 sec) using potentiometer → press button to start
 
 ---
 
-**📁 bochka** - Automatic water tank control
+## 📁 bochka - Automatic water tank control
 
 Sensor detects no water for 30 min → pump turns ON. Water detected for 15 sec → pump turns OFF.
 
