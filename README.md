@@ -1,12 +1,26 @@
 **GreenHouse Irrigation System** 🌱
 
-Dual-mode Arduino plant watering system with TFT display.
+Two independent Arduino projects in one repository.
 
-**Manual mode** - Set duration (1-2048 sec) with potentiometer, press button to water.
+---
 
-**Auto mode** - No water for 30 min → pump ON. Water detected for 15 sec → pump OFF.
+**📁 aquaflora** - Manual watering with TFT display
 
-**Hardware:** ST7735 display, relay module, water sensor, potentiometer, button.
+Set watering duration (1-2048 sec) using potentiometer → press button to start. Shows countdown and progress bar on ST7735 display.
+
+**Hardware:** ST7735 display, relay, button, potentiometer
+
+---
+
+**📁 bochka** - Automatic water tank control
+
+Sensor detects no water for 30 min → pump turns ON. Water detected for 15 sec → pump turns OFF.
+
+**Hardware:** relay, water level sensor
+
+---
+
+Both projects run on separate boards. No communication between them.
 
 ## The system in greenhouse
 ![The system is on a barrel](greenhouse-irrigation-system/photos/1.jpg)
